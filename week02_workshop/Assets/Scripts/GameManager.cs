@@ -17,6 +17,7 @@ public class GameManager : MonoBehaviour
         if (instance == null)
         {
             instance = this;
+            UpdateScore();
         }
         else
         {
@@ -32,7 +33,7 @@ public class GameManager : MonoBehaviour
 
     private void UpdateScore()
     {
-        _scoreText.text = _currentScore.ToString();
+        _scoreText.text = "Score: " + _currentScore.ToString();
     }
 
 }
