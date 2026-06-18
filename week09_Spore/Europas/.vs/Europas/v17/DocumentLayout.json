@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|d:\\lasalle\\term04\\gameengineprogramming\\github\\gameengineproclass_vgp236\\week09_spore\\europas\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\foodscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\foodscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\followcamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\floatingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\floatingtext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\creature_spikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creature_spikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\creature_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creature_speed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\creature_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creature_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\playermouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermouth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\mouthscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouthscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\objectcleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectcleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\spikescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spikescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\stayupright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\stayupright.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\partpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\partpickup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D4E13FB-7865-6ED8-333C-3BB68A5E57EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 15,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T02:56:32.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObjectCleanup.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\ObjectCleanup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectCleanup.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\ObjectCleanup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ObjectCleanup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T02:31:22.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Spawner.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Spawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Spawner.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Spawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Spawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T02:26:40.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PartPickup.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\PartPickup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PartPickup.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\PartPickup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PartPickup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T01:26:31.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StayUpright.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\StayUpright.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StayUpright.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\StayUpright.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StayUpright.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T21:30:44.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloatingText.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\FloatingText.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FloatingText.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\FloatingText.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FloatingText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T20:21:13.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Creature_Player.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature_Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creature_Player.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature_Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creature_Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T18:29:38.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PlayerMouth.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\PlayerMouth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMouth.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\PlayerMouth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMouth.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T18:04:51.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FoodScript.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\FoodScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FoodScript.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\FoodScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FoodScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T18:01:40.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Creature_Speed.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature_Speed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creature_Speed.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature_Speed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creature_Speed.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T17:28:51.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Creature_Spikey.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature_Spikey.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creature_Spikey.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature_Spikey.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creature_Spikey.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:40:40.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FollowCamera.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\FollowCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FollowCamera.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\FollowCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FollowCamera.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T17:08:20.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpikeScript.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\SpikeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpikeScript.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\SpikeScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpikeScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:06:26.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Creature.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\Creature.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Creature.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:05:32.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MouthScript.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\MouthScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouthScript.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\MouthScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouthScript.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:04:25.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\lasalle\\term04\\GameEngineProgramming\\GitHub\\GameEngineProClass_vgp236\\week09_Spore\\Europas\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T11:02:39.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

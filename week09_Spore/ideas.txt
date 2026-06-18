@@ -1,0 +1,22 @@
+Name : Europas
+(on Europa, move with water / frozen ocean) + "Saporue" ~ Spore
+
+
+parts:
+- spikes for collision
+- poison AOE
+- speed boost
+- Herbivore / carnivore???
+
+enemies:
+- many spikes (neutral)
+- speed (passive flee)
+- big (aggressive)
+- poison (passive slow)
+
+
+environment:
+- plants floating around
+- ocean background
+- bubbles can push player around
+- shells or rocks can block player?
